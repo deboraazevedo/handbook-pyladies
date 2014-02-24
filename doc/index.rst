@@ -2,20 +2,6 @@
 PyLadies Handbook
 =================
 
-Contents:
-
-.. toctree::
-   :maxdepth: 3
-
-   api
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
 So You’ve Decided to Start Your Own PyLadies Chapter
 ----------------------------------------------------
 

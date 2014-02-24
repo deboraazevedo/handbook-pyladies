@@ -1,25 +1,6 @@
-.. PyLadies Brasil Handbook documentation master file, created by
-   sphinx-quickstart on Mon Feb 24 01:46:28 2014.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
 =================
 PyLadies Handbook
 =================
-
-Contents:
-
-.. toctree::
-   :maxdepth: 3
-
-   api
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
 
 So You’ve Decided to Start Your Own PyLadies Chapter
 ----------------------------------------------------
