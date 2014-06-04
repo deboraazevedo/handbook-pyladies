@@ -51,159 +51,123 @@ Quanto maior o grupo, mais difícil é realizar encontros pessoalmente. Os grand
 Um grupo pode consistir em sub-grupos, tornando tanto possíveis meetups virtuais e encontros ao vivo.
   
   
-Chapter Size
-~~~~~~~~~~~~
+Tamanho do grupo
+~~~~~~~~~~~~~~~~
 
-It’s fine if your chapter is small. Having just 2-3 women who meet
-regularly to exchange Python tips and tricks counts as a chapter. What matters
-most is quality, not quantity.
+É bom se o grupo é pequeno . Tendo apenas 5 a 15 mulheres que se reúnem regularmente para trocar dicas e truques Python já conta como um grupo. O que mais importa é a qualidade, não quantidade.
 
-Larger chapters have more flexibility to organize different types of
-events, but it’s harder to get everyone together for dinner.
+Grupos maiores têm mais flexibilidade para organizar diferentes tipos de eventos, mas é mais difícil para que todos se juntem.
 
-Initial setup of your chapter
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Email info@pyladies.com with the following info:
+A configuração inicial do seu grupo
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-#. Names/emails of co-organizers.
-#. Desired subdomain for your chapter
-   (http://your-subdomain.pyladies.com). This can be geographic,
-   university/school-related, interest group-related, or almost any
-   other name of your choice.
-#. 1-2 paragraph blurb about your chapter so we can announce it on
-   `pyladies.com/blog <http://pyladies.com/blog>`_ and in the PyLadies
-   global newsletter.
-#. Desired email address (whatever@pyladies.com).
+Mande-nos um email para pyladiesbrazil@pyladies.com com as seguintes informações:
 
-Create at least one of the following:
+#. Nomes / e-mails dos co-organizadores .
+#. Subdomínio desejado para o seu grupo ( http://your-subdomain.pyladies.com ) . Isso pode ser para um grupo geográfico , relacionados a universidade / escola , referente a grupos de interesse , ou quase qualquer outro nome de sua escolha .
+#. 1-2 parágrafo resumo sobre o seu grupo , para que possamos anunciá-lo em pyladies.com / blog e no boletim nacional das PyLadies.
+#. Endereço de e-mail desejado (quelquercoisa@pyladies.com ) .
 
-#. a group on Meetup.com for your chapter (recommended; ask us about
-   sponsorship if you need help with the Meetup subscription fees)
-#. a website and mailing list for your chapter (note: Meetup.com has
-   this built in; consider using that to simplify things)
 
-Post a description of your first event on your Meetup.com group or
-website. It can be as simple as “We’re getting together at X Coffee
-Shop, 123 Main St., Anytown to make plans for our new PyLadies chapter.
-All local Python developer women (and their +1 guests) (and men
-interested in helping out) are invited.”
+Criar pelo menos um dos seguintes:
 
-Then see the Promotion section of the PyLadies Handbook for info about
-how to promote your first chapter event!
+#. Um grupo no Meetup.com para o seu grupo ou uma página pra haver sempre a divulgação dos eventos e o controle de quem irá - ( recomendado; perguntar-nos sobre o patrocínio , se você precisa de ajuda com as taxas de inscrição Meetup )
+#. Um site e lista de discussão para o seu grupo (nota: Meetup.com tem esse serviço, pode considerar o uso dele para simplificar as coisas, mas também existe a lista de gmail, etc)
+Publicar uma descrição do seu primeiro evento em seu grupo Meetup.com ou site. Pode ser tão simples como " Estamos chegando juntos no X Coffee Shop, 123 Main St., Anytown para fazer planos para o nosso novo grupo PyLadies grupo. Todas as desenvolvedoras locais de/em Python (e seus convidados) (e homens interessados ​​em ajudar ) estão convidados. "
+Em seguida, consulte a seção de Promoção do Manual PyLadies para obter informações sobre como promover o seu primeiro evento grupo!
 
-Events
-------
+Publique uma descrição do seu primeiro evento em seu grupo Meetup.com ou site. Pode ser tão simples como " Estamos chegando juntos no X Coffee Shop, 123 Main St., Anytown para fazer planos para o nosso novo grupo PyLadies grupo. Todas as desenvolvedoras locais de/em Python (e seus convidados) (e homens interessados ​​em ajudar ) estão convidados. "
+
+Em seguida, consulte a seção de Promoção do Manual PyLadies para obter informações sobre como promover o seu primeiro evento grupo!
+
+Eventos
+-------
 
 Organizer Events
 ~~~~~~~~~~~~~~~~
-
-Very useful for planning sessions, but also for support and
-accountability.
+ 
+Muito útil para planejar reuniões, mas também para suporte e prestação de contas.
 
 Python Ladies' Nights
 ~~~~~~~~~~~~~~~~~~~~~
 
-The PyLadies aren’t ALL about coding -- we also love to socialize and
-have fun!
+O PyLadies não é APENAS sobre programar -- nós também socializamos e nos divertimos!
 
-Hosted: a potluck/party at a member’s house
+Sediada: festa americana na casa de um dos membros.
 
-Meet: at a bar or restaurant
+Encontro: em uma cafeteria ou restaurante. 
 
 Workshops
 ~~~~~~~~~
 
-You can host workshops either as full-day events every 1-3 months or so,
-or as evening events that occur weekly.
+Você pode montar workshops com eventos de dia inteiro a cada 1-3 meses ou eventos semanais só durante a tarde.
 
-Intro to Python
-^^^^^^^^^^^^^^^
 
-#. Austin PyLadies `Intro to Python <https://github.com/pyladiesatx/pyladiesatx/tree/master/classes/python_intro>`
-#. PyStar has some great tutorials for beginners.
-#. Learn Python the Hard Way by Zed Shaw
-#. custom (depending on your needs)
+Introdução à Python
+^^^^^^^^^^^^^^^^^^^
 
-Intro to Django
-^^^^^^^^^^^^^^^
+#. Austin PyLadies Intro to Python <https://github.com/pyladiesatx/pyladiesatx/tree/master/classes/python_intro>
+#. PyStar tem ótimos tutoriais para iniciantes.
+#. Learn Python the Hard Way, por Zed Shaw
+#. Personalizado (dependendo das suas necessidades)
 
-#. Poll tutorial from
-   `docs.djangoproject.com <http://docs.djangoproject.com>`_
-#. Sandy Strong's `Intro to Django Workshop slides <http://bit.ly/qMcEAT>`_
+Introdução à Django
+^^^^^^^^^^^^^^^^^^^
 
-Other topic of interest workshop
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+#. Tutorial do docs.djangoproject.com <http://docs.djangoproject.com>`_
+#. Slides do Workshop Intro to Django, de Sandy Strong. <http://bit.ly/qMcEAT>`_
 
-#. Find a programming/relevant developer book that you’d like to study.
-   Host a weekly study group.
-#. Host a weekend workshop about game programming, startups, journalism,
-   etc.
+Outros tópicos de interesse para workshop
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+#. Encontre um livro relevante de programação/desenvolvimento que você gostaria de estudar. Monte um grupo de estudo semanal.
+#. Sedie um workshop de fim de semana sobre programação de jogos, statups, jornalimos, etc.
 
 Hackathons/Sprints
 ~~~~~~~~~~~~~~~~~~
 
-LA PyLadies has hosted hackathons where attendees bring laptops and
-projects of their own to work on. Beginners are pointed to
-`learnpythonthehardway.org <http://learnpythonthehardway.org>`_ and
-instructed to work through the tutorial, asking for help as needed. They are
-urged to post exercises to Github, as a way to dip their toes in the world
-of open source sofware.
+O LA PyLadies tem sediado hackathons onde os participantes levam seus próprios notebooks e projetos para trabalhar neles. Iniciantes são encaminhados ao tolearnpythonthehardway.org e instruídosa trabalhar o tutorial, pedido ajuda sempre que necessário. Eles rapidamente postam atividades no Github, como forma de começar a mergulhar no mundo do open source.
 
-Hackathons can be evening, full-day, or all-weekend events.
+Hackathons podem eventos de uma tarde,vc dia inteiro ou fim de semana.
 
-Virtual meetups
-~~~~~~~~~~~~~~~
+Encontros Virtuais
+~~~~~~~~~~~~~~~~~~
 
-PyLadiesAU held their first chapter meeting as a virtual meetup. See
-`http://au.pyladies.com/events/32589162/ <http://au.pyladies.com/events/32589162/>`_
-for details.
+O PyLadiesAU tiveram sua primeira reunião de grupo virtualmente. Veja http://au.pyladies.com/events/32589162/ para detalhes.
 
-The IRC #pyladies channel is always available for anyone to use for
-virtual meetups. Feel free to use it without asking, or create a
-#pyladies-whatever channel if you prefer.
+O canal IRC #pyladies está sempre disponível para qualquer um usar para reuniões online. Sinta-se livre para usá-lo sem pedir permição, ou crie um canal #pyladies-qualquercoisa, se você preferir.
 
-Meetups as part of a Python user group (PUG) meetup
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Encontros como parte de um encontro de Grupo de Usuários Python (GUP)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-A PyLadies event can be as simple as women getting together and talking
-about each others’ Python projects in a small group after a local PUG
-event.
+Um evento PyLadies pode ser simples como um grupo de mulheres juntas conversando sobre seus projetos Python após um evento do grupo local.
 
-Anything to encourage women to attend and continue attending PUGs is
-great. Talk to your local PUG organizers and ask for their help and
-support in having a post-PUG informal PyLadies meetup.
+Qualquer coisa que encorage mulheres a participar e continuar participando dos grupos Python é ótima. Converse com os organizadores da sua comunidade de Python local e peça sua ajuda e suporte para ter um encontro PyLadies informal pós-reunião.
 
-You might also consider trying to give a <doc> at a 
-meetup. This can help bring more beginners who might otherwise be 
-scared away to the group.
+Você também pode considerar entregar um <doc> em um encontro. Isso pode ajudar iniciantes que de outra forma podem se assustar e se afastar do grupo.
 
-Code review sessions
-~~~~~~~~~~~~~~~~~~~~
+Reuniões para revisão de código
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Reviewing someone’s coding project together can help everyone learn
-better coding practices.
+Revisar códigos de uns dos outros pode ajudar a todos a aprender melhores práticas de programação. 
 
-Conference prep sessions
-~~~~~~~~~~~~~~~~~~~~~~~~
+Sessões de preparação de Conferências 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Python conferences that might interest your chapter: PyCon, DjangoCon,
-PloneConf, SciPy (Python for Scientific Computing)
+Conferências sobre Python que podem interessar seu grupo: PyCon, DjangoCon, PloneConf, SciPy (Python para a Computação Científica), Python Brasil, Python Nordeste.
 
-What you can do to prepare together:
+O que você pode fazer para organizar:
 
-#. Brainstorm talk ideas. Help each other put together talk outlines.
-#. Review each others’ talk proposals.
-#. Practice talks in front of each other, in a small group.
-#. Practice in a larger group, as a joint event with the local Python
-   user group.
+#. Brainstorm de idéias. Ajude uns aos outros a agrupar as idéias de discussões. 
+#. Analise as propostas de discussões de cada um.
+#. Pratique discussões em frente um do outro, em um pequeno grupo. 
+#. Pratique em um grupo maior, como um evento em conjunto com o grupo de usuários de Python local.
 
-Conferences can be stressful, but they’re also a lot of fun,
-particularly if you’re attending with a friend or a small group. There's
-also a good chance you will run into PyLadies from other chapters!
+Conferências podem ser estressantes, mas também são muito divertidas, especialmente se você está participando com um amigo ou com um grupo pequeno. Há também uma boa chance que você encontre PyLadies de outros grupos!
 
-Promotion
----------
+Divulgação
+-----------
 
 One benefit of creating a PyLadies chapter is having access to a
 worldwide support network of PyLadies who can help you spread word about
