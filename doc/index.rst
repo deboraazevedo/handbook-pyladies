@@ -169,53 +169,33 @@ Conferências podem ser estressantes, mas também são muito divertidas, especia
 Divulgação
 -----------
 
-One benefit of creating a PyLadies chapter is having access to a
-worldwide support network of PyLadies who can help you spread word about
-your events.
+Um dos benefícios da criação de um grupo PyLadies é ter acesso a uma rede mundial de apoio de PyLadies, que podem te ajudar a divulgar seus eventos.
 
-How to promote your events locally
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Como promover seus eventos localmente
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Do the following:
+Faça o seguinte:
 
-#. Post an event description on your `meetup.com <http://meetup.com>`_
-   page or website.
-#. Announce the event via your mailing list.
-#. Create event flyers and distribute them at meetups, Python user group
-   meetings, work, and the local universities. See [upload example or
-   template to git repo] for an example.
-#. Approach the career offices and engineering/science departments of
-   local colleges and universities.
-#. Contact old professors and teachers. Tell them about what you’re
-   doing; they’ll be glad to hear from you. Ask to make an announcement
-   to their current students at the start of their classes, or as an
-   email.
-#. Attend local tech/Python meetups. Be an active part of the local
-   developer community. Show that you care about getting more women into
-   Python development and programming in general. Be humble and ask for
-   help from the group.
+#. Poste uma descrição do evento na sua página meetup.com ou site.
+#. Anuncie seu evento através da sua lista de contatos.
+#. Crie flyers e os distribua em encontros gerais, encontros dos usuários de Python locais, trabalho, e nas universidades locais.
+#. Aproxime-se dos departamentos de engenharia/ciência da faculdades e universidades locais.
+#. Contate seus antigos professores e orientadores. Fale a eles o que você está fazendo; eles ficarão felizes em te escutar. Peça para fazer um anúnio para seus alunos atuais no início das aulas, ou através de e-mail.
+#. Participe de encontros de tecnologia/Python locais. Seja parte ativa da comunidade desenvolvedora local. Mostre a eles que você se preocupa em trazer mais mulheres para o desenvolvimento em Python e programação em geral. Seja humilde e peça ajuda do grupo.
 
-How we can help
-~~~~~~~~~~~~~~~
+Como podemos ajudar 
+~~~~~~~~~~~~~~~~~~~
 
-Email the main point of contact for any of the following channels, and
-provide text and/or images for us to use:
+Envie e-mail para o ponto principal de contato de qualquer um dos seguintes canais, e forneça texto e/ou imagens para usarmos:   
 
-#. Global PyLadies Newsletter: Good for announcements about meetups.
-   Subscribers from all over the world. Please keep the text
-   brief and include an image. (info@pyladies.com)
-#. PyLadies blog: we would love for you to contribute posts to our blog!
-   It's as simple as forking and then making a pull request off
-   http://github.com/pyladies/pyladies
+#. Boletim informativo global das PyLadies: bom para anúncios sobre encontros. Pessoas inscritas por todo o mundo. Por favor, mantenha o texto breve e inclua uma imagem. info@pyladies.com)
+#. Blog das PyLadies: nós iríamos amar que você contribuísse com posts no nosso blog! É simplesmente fazer uma bifurcação e, em seguida, enviar uma requisição a http://github.com/pyladies/pyladies
 
-In addition, promote all of your events directly through the following:
-6. PyLadies Google group: http://groups.google.com/group/pyladies
-7. #pyladies IRC channel (FreeNode)
+Além disso, promova todos os seus eventos diretamente através do seguinte:
+6. Grupo PyLadies Google: http://groups.google.com/group/pyladies 
+7. Canal IRC #pyladies (FreeNode)
 
-Whenever you have news of interest to the PyLadies community, all the
-above channels are available to help you make your announcement. We are
-always looking for good quotes and photos from Python developer women.
-
+Sempre que você tiver notícias de interesse da comunidade PyLadies, todos os canais acima estão disponíveis para ajudá-lo a fazer o seu anúncio. Estamos sempre à procura de boas citações e fotos de mulheres desenvolvedoras de Python.
 
 Guidelines for using the PyLadies promotion channels
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
