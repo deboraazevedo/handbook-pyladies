@@ -2,71 +2,55 @@
 PyLadies Handbook
 =================
 
-So You’ve Decided to Start Your Own PyLadies Chapter
+Então você decidiu começar seu próprio grupo PyLadies.
 ----------------------------------------------------
 
-YAY! We’re excited to have people like you join our growing community
-and want to help you get your chapter launched as quickly and painlessly
-as possible. If our experience is any indication, your first major event
-will galvanize and inspire the Python community in your area and create
-momentum for subsequent events, so it’s crucial to start things off on
-the right foot!
+YAY ! Estamos muito animadas para ter pessoas como você se juntando à nossa comunidade (crescente) e queremos ajudá-la a criar o seu grupo Pyladies da melhor forma possível, rápido e sem estresses ;) (lançado o mais rápido e com menos sofrimento possível) . Se a nossa experiência for válida(é qualquer indicação), podemos garantir que o seu primeiro grande evento irá estimular e inspirar a comunidade Python em sua área e criar uma dinâmica para eventos posteriores, por isso é fundamental para começar as coisas com o pé direito!
 
-To help you get started, we’ve created an open-source kit for starting
-your own PyLadies chapter in your city. PyLadies is part social club,
-part stepping stone toward the Python open-source world.
+Para ajudar você a começar , criamos um kit de código aberto para iniciar o seu próprio grupo PyLadies em sua cidade. PyLadies é parte um grupo social, parte um trampolim para o mundo open-source do Python.
 
-What you need
--------------
+O que você precisa
+------------------
 
-You may of course adapt this list to meet your chapter’s needs.
+Você pode, claro, adaptar esta lista para atender as necessidades do seu grupo local.
 
-Organizers
-~~~~~~~~~~
+Organizadores
+~~~~~~~~~~~~~
 
-2-10 Python lady developers who want to be local PyLadies chapter
-organizers
+Ladies desenvolvedoras de/em Python que querem ser organizadoras de grupos locais PyLadies.
 
-Promotion and Outreach
+Promoção e Divulgação
 ~~~~~~~~~~~~~~~~~~~~~~
 
-Various local channels for promoting your group, including meetup.com,
-local PUGs, related groups, and universities. Also, a list of global
-PyLadies channels that you can use.
+Vocês podem usar vários canais locais para promover o seu grupo, incluindo meetup.com, redes sociais, grupos acadêmicos e mídia em geral. Além disso, ainda há uma lista de canais globais Pyladies que você pode usar.
 
-Events
-~~~~~~
+Eventos
+~~~~~~~
 
-At minimum, try to hold one event a month -- this helps keep interest in
-PyLadies from flagging, and helps people maintain their progress in
-becoming better developers. You can hold more events with proper support
-and planning.
+No mínimo, tentar segurar um evento por mês - isso ajuda a fazer com que o interesse das Pyladies não enfraqueça , e ajuda as pessoas a manterem o seu progresso em se tornar melhores desenvolvedoras. Você pode realizar mais eventos com apoio e planejamento adequado.
 
-How to use this kit
+Como usar esse kit
 -------------------
 
-Copy our model (fork & contribute). Or fork and make it completely
-different. We don’t mind if you get creative!
+Copie nosso modelo (fork & contribute). Ou fork e faça completamente diferente. Não iremos te impedir de usar sua criatividade!
 
-About PyLadies Chapters
------------------------
 
-Types of Chapters
-~~~~~~~~~~~~~~~~~
+Sobre os grupos  PyLadies
+-------------------------
 
-A chapter can be:
+Tipos de grupos
+~~~~~~~~~~~~~~~
 
-#. a geographic chapter: for a city, region, state, or country
-#. a student chapter: for a university, college, or school
-#. an interest group chapter: for any topic (e.g. PyGame, SciPy, Django)
 
-The larger the chapter, the harder it is to meet in person. Large
-chapters’ events will be mostly virtual meetups that occur online,
-whereas small chapters’ events tend to be in-person meetups.
+Um grupo pode ser:
 
-A chapter can consist of sub-chapters, making both the in-person and
-virtual meetups possible.
-
+#. um grupo geográfico : para uma cidade, região, estado ou país
+#. um grupo de alunos: para uma universidade , faculdade ou escola
+#. um grupo de interesses comuns : para qualquer tema (por exemplo, PyGame , SciPy , Django )
+Quanto maior o grupo, mais difícil é realizar encontros pessoalmente. Os grandes eventos do grupo serão principalmente meetups virtuais que ocorrem online, ao passo que as eventos de pequenos grupos tendem a ser meetups pessoais .
+Um grupo pode consistir em sub-grupos, tornando tanto possíveis meetups virtuais e encontros ao vivo.
+  
+  
 Chapter Size
 ~~~~~~~~~~~~
 
