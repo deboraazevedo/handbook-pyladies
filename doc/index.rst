@@ -205,17 +205,14 @@ Qualquer coisa de interesse para mulheres na comunidade Python pode ser postada 
 #. **Nos mande o texto que você quer postar.**
 #. Para eventos de grupos locais do PyLadies:
 
-   * Mande o tteto para maior número de eventos possível para os canais listados acima.
+   * Mande o texto para maior número de eventos possível para os canais listados acima.
      Quando mais nós pudermos promover seus eventos, melhor.
 #. Para eventos que não são dos grupos ou posts gerais:
 
    * Posts devem ser relevanter para mulheres. Mencione mulheres organizando e/ou participando do evento. Colocar o nome delas e o link para seus sites ou contas do Twitter.
    * Não reuse a mesma propaganda que você usa em tudo; customize-a para ser relevante pra o seu público específico.
    * Nós adoraríamos usar os város canais para divulgar o que PyLadies de todo lugar estão fazendo. Se você conhece alguém que deveria ser "divulgado", você poderia escrever algo interessante para o blog, Twitter etc.
-   * Se você quer dar um evento da comunidade Python e precisa da nossa ajuda para fazer as mulheres participarem, submeter propostas etc, uma
-   explicação sincera sobre por quê mulheres devem participar e se sentirem bem-vindas é beeeem comprida. Um código de desconto do PyLadies tambem
-   ajuda: lembre-se que uma grande parte do nosso público são estudantes/pessoas que estão começando profissionalmente com Python, que não podem
-   se compromter e pagar para eventos para submeter propostas a não ser que haja esse desconto garantido.
+   * Se você quer dar um evento da comunidade Python e precisa da nossa ajuda para fazer as mulheres participarem, submeter propostas etc, uma    explicação sincera sobre por quê mulheres devem participar e se sentirem bem-vindas é beeeem comprida. Um código de desconto do PyLadies tambem ajuda: lembre-se que uma grande parte do nosso público são estudantes/pessoas que estão começando profissionalmente com Python, que não podem se compromter e pagar para eventos para submeter propostas a não ser que haja esse desconto garantido.
 
 
 Encontrando patrocinadores/arrecadar fundos
@@ -225,13 +222,9 @@ Se o seu grupo é pequeno, você não precisa necessariamente de patrocinadores.
 Entretanto, você pode querer organizar viagens, conferencias, e outros tipos de eventos mais custosos. Se quiser, você vai precisar arrecadar
 fundos e pedir a empresas que usem Python para considerarem patrocinar o evento.
 
-Venue Sponsors
+Patrocinadores de pontos de encontro
 ~~~~~~~~~~~~~~
-Research local companies and approach them. Often, a company that
-already hosts other meetups will be willing to host your PyLadies
-chapter. Ask them if they’ll provide pizza/drinks; if not, charge
-attendees a fee that covers food (and more, if you want to use the funds
-for future events).
+Pesquise empresas locais e as aborde. Frequentemente, uma empresa que já é anfitriã de outros meetups estará disposta a ser host do seu grupo do PyLadies. Pergunte se elas podem conseguir pizza/drinks; se não, peçam uma pequena taxa das participantes para poder comprar a comida (e mais, se quiser, use esses fundos para os próximos eventos).if not, charge
 
 Fiscal Sponsorship from the PSF
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
