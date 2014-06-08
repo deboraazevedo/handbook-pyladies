@@ -197,45 +197,33 @@ Além disso, promova todos os seus eventos diretamente através do seguinte:
 
 Sempre que você tiver notícias de interesse da comunidade PyLadies, todos os canais acima estão disponíveis para ajudá-lo a fazer o seu anúncio. Estamos sempre à procura de boas citações e fotos de mulheres desenvolvedoras de Python.
 
-Guidelines for using the PyLadies promotion channels
+Guidelines para o uso dos canais de promoção do PyLadies
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Anything of interest to women in the Python community can be posted in
-the various PyLadies channels, provided that it meets these guidelines:
+Qualquer coisa de interesse para mulheres na comunidade Python pode ser postada nos vários canais do PyLadies, contanto que estejam dentro dessas guidelines:
 
-#. **Send us the actual text that you want posted.**
-#. For local PyLadies chapter events:
+#. **Nos mande o texto que você quer postar.**
+#. Para eventos de grupos locais do PyLadies:
 
-   * Send text for as many events as possible to the channels listed above.
-     The more we can promote your events, the better.
-#. For non-chapter events and general postings:
+   * Mande o tteto para maior número de eventos possível para os canais listados acima.
+     Quando mais nós pudermos promover seus eventos, melhor.
+#. Para eventos que não são dos grupos ou posts gerais:
 
-   * Postings should be relevant to women.  Mention the women organizing
-     and/or attending the event.  Have their names link to their websites or
-     Twitter accounts.
-   * Don't just reuse the same blurb that you use everywhere; customize it to
-     be relevant to the specific audience you're addressing.
-   * We'd love to use the various channels to feature what PyLadies from
-     everywhere are doing.  If you know of someone who should be featured,
-     you can write up something interesting for the blog, Twitter stream, etc.
-   * If you are hosting a Python community event or conference and need our
-     help getting more women to attend, submit proposals, etc., a heartfelt
-     explanation about why more women should attend and feel welcome goes a
-     long way. A PyLadies discount code also helps: keep in mind that a huge
-     part of our audience are students/those just starting out professionally
-     with Python, who cannot afford to commit to events or submit
-     proposals unless there is a known, guaranteed PyLadies discount.
+   * Posts devem ser relevanter para mulheres. Mencione mulheres organizando e/ou participando do evento. Colocar o nome delas e o link para seus sites ou contas do Twitter.
+   * Não reuse a mesma propaganda que você usa em tudo; customize-a para ser relevante pra o seu público específico.
+   * Nós adoraríamos usar os város canais para divulgar o que PyLadies de todo lugar estão fazendo. Se você conhece alguém que deveria ser "divulgado", você poderia escrever algo interessante para o blog, Twitter etc.
+   * Se você quer dar um evento da comunidade Python e precisa da nossa ajuda para fazer as mulheres participarem, submeter propostas etc, uma
+   explicação sincera sobre por quê mulheres devem participar e se sentirem bem-vindas é beeeem comprida. Um código de desconto do PyLadies tambem
+   ajuda: lembre-se que uma grande parte do nosso público são estudantes/pessoas que estão começando profissionalmente com Python, que não podem
+   se compromter e pagar para eventos para submeter propostas a não ser que haja esse desconto garantido.
 
-Finding Sponsors/Raising Funds
+
+Encontrando patrocinadores/arrecadar fundos
 ------------------------------
 
-If your chapter is small, you don’t necessarily need sponsors. Hosting
-chapter meetups at coffee shops, restaurants, or people’s houses is
-fine.
-
-However, you may want to organize trips, conferences, and other types of
-more costly events. If so, you will need to raise local chapter funds
-and ask local Python shops to consider sponsoring an event.
+Se o seu grupo é pequeno, você não precisa necessariamente de patrocinadores. Fazer os meetings do grupo em cafés, lanchonetes ou na casa das pessoas é bom
+Entretanto, você pode querer organizar viagens, conferencias, e outros tipos de eventos mais custosos. Se quiser, você vai precisar arrecadar
+fundos e pedir a empresas que usem Python para considerarem patrocinar o evento.
 
 Venue Sponsors
 ~~~~~~~~~~~~~~
