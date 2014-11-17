@@ -226,25 +226,21 @@ Patrocinadores de pontos de encontro
 ~~~~~~~~~~~~~~
 Pesquise empresas locais e as aborde. Frequentemente, uma empresa que já é anfitriã de outros meetups estará disposta a ser host do seu grupo do PyLadies. Pergunte se elas podem conseguir pizza/drinks; se não, peçam uma pequena taxa das participantes para poder comprar a comida (e mais, se quiser, use esses fundos para os próximos eventos).if not, charge
 
-Fiscal Sponsorship from the PSF
+Patrocinio da  PSF
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-The `Python Software Foundation <http://python.org/psf>`_ has been very supportive of PyLadies.
-They have a `special donation page <https://psfmember.org/civicrm/contribute/transact?reset=1&id=6>`_,
-where donors can use PayPal to make donations directly to the PSF that are
-tax-deductible, which can then be used to reimburse PyLadies organizers who
-pay for various event costs.
+A `Python Software Foundation <http://python.org/psf>`_ tem sido bastante apoiadora do PyLadies.
+Eles tem uma página especial para doações <https://psfmember.org/civicrm/contribute/transact?reset=1&id=6>`_, onde os doadores podem usar o PayPal para fazer doações diretamente para a PSF que são
+sem dedução fiscaç, que podem ser usadas para reembolsar organizadoras do PyLadies que pagam pelos custos dos eventos.
 
 
-PSF Grant Programs
+Programas de concessão da PSF 
 ~~~~~~~~~~~~~~~~~~
 
-See our `sample PSF grant proposal to raise money for t-shirts, tables,
-and chairs:
+Veja nossos exemplos de  propostas de concessão para arrecadar dinheiro para camisas, mesas e cadeiras.
 <https://github.com/pyladies/pyladies-kit/blob/master/grant-proposals/sample-hackathon.pdf?raw=true>`_
 
-You can apply for a Python Sprints grant to raise money for food, power
-strips, name tags, and anything else you might need to run a
-sprint/hackathon, up to $300:
+Você pode se inscrever para uma Python Sprints para arrecadar dinheiro para comida, filtros de linha, name tags, e qualquer outra coisa a mais que você possa precisar para executas
+ uma sprint/hackathon, até $300:
 
 
 Selling t-shirts/merchandise
